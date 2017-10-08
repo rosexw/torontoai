@@ -18,6 +18,7 @@ Click on the following links to skip to the relevant section.
 - [Advanced Spark, DeepLearning and Tensorflow Meetup](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/)
 - [Artificial Intelligence North](https://www.meetup.com/AINorth/)
 - [Big Data Developers Toronto](https://www.meetup.com/Big-Data-Developers-in-Toronto/)
+- [#BotTO](https://www.meetup.com/Bot-TO/)
 - [Chatbots & AI Meetup](https://www.meetup.com/Chatbots-and-AI-Meetup/)
 - [Deep Learning Toronto Meetup](https://www.meetup.com/Deep-Learning-Toronto-Meetup/)
 - [IBM Big Data University Meetup](https://www.meetup.com/BDU-Toronto/)
@@ -39,6 +40,7 @@ Click on the following links to skip to the relevant section.
 - [Morrow](http://www.morrow.co/) - The personal productivity AI who helps you do work that matters.
 - [Naborly](https://naborly.co/) - Data-Driven Tenant Screening.
 - [Noq](http://www.thenoq.com/) - Mobile messanging app using a revolutionary AI-powered sharing process.
+- [Obie.AI](https://obie.ai/) - Obie is a chatbot/virtual assistant to help teams access knowledge quicker without leaving Slack.
 - [Pax Cultura](https://paxculturastudios.com/) - Software design and programming that invests in original product development.
 - [PetBot](http://petbot.com/) - Uses artificial intelligence to recognize pets and allow two-way interaction instead of surveillance.
 - [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions.
